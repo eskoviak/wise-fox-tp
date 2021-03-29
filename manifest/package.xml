@@ -148,6 +148,10 @@
 		<members>*</members>
         <name>SharingRules</name>
 	</types>
+    <types>
+        <members>*</members>
+        <name>SurveySettings</name>
+    </types>
 	<types>
 		<members>*</members>
 		<name>HomePageLayout</name>

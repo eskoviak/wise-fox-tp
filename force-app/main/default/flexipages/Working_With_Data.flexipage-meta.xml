@@ -5,15 +5,21 @@
         <type>Region</type>
     </flexiPageRegions>
     <flexiPageRegions>
-        <componentInstances>
-            <componentName>accountCreator</componentName>
-        </componentInstances>
-        <componentInstances>
-            <componentName>contactCreator</componentName>
-        </componentInstances>
-        <componentInstances>
-            <componentName>accountList</componentName>
-        </componentInstances>
+        <itemInstances>
+            <componentInstance>
+                <componentName>accountCreator</componentName>
+            </componentInstance>
+        </itemInstances>
+        <itemInstances>
+            <componentInstance>
+                <componentName>contactCreator</componentName>
+            </componentInstance>
+        </itemInstances>
+        <itemInstances>
+            <componentInstance>
+                <componentName>accountList</componentName>
+            </componentInstance>
+        </itemInstances>
         <name>region2</name>
         <type>Region</type>
     </flexiPageRegions>

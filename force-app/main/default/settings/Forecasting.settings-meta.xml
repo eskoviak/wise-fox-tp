@@ -229,6 +229,18 @@
             <label>Last Modified Date</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N3t00000FvS5X</field>
+            <label>Amount After Discount</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N3t00000FvRqr</field>
+            <label>Close Reason</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N3t00000FvS5I</field>
+            <label>Commission</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N3t00000C5E2o</field>
             <label>Current Generator(s)</label>
         </opportunityListFieldsLabelMappings>
@@ -237,12 +249,20 @@
             <label>Delivery/Installation Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N3t00000FvS5S</field>
+            <label>Discount Percentage</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N3t00000C5E2q</field>
             <label>Main Competitor(s)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00N3t00000C5E2r</field>
             <label>Order Number</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N3t00000FvS5N</field>
+            <label>Region/Zone</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00N3t00000C5E2s</field>
@@ -282,10 +302,15 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
+            <field>00N3t00000FvS5X</field>
+            <field>00N3t00000FvRqr</field>
+            <field>00N3t00000FvS5I</field>
             <field>00N3t00000C5E2o</field>
             <field>00N3t00000C5E2p</field>
+            <field>00N3t00000FvS5S</field>
             <field>00N3t00000C5E2q</field>
             <field>00N3t00000C5E2r</field>
+            <field>00N3t00000FvS5N</field>
             <field>00N3t00000C5E2s</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
@@ -443,6 +468,18 @@
             <label>Last Modified Date</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N3t00000FvS5X</field>
+            <label>Amount After Discount</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N3t00000FvRqr</field>
+            <label>Close Reason</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N3t00000FvS5I</field>
+            <label>Commission</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N3t00000C5E2o</field>
             <label>Current Generator(s)</label>
         </opportunityListFieldsLabelMappings>
@@ -451,12 +488,20 @@
             <label>Delivery/Installation Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N3t00000FvS5S</field>
+            <label>Discount Percentage</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N3t00000C5E2q</field>
             <label>Main Competitor(s)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00N3t00000C5E2r</field>
             <label>Order Number</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N3t00000FvS5N</field>
+            <label>Region/Zone</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00N3t00000C5E2s</field>
@@ -496,10 +541,15 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
+            <field>00N3t00000FvS5X</field>
+            <field>00N3t00000FvRqr</field>
+            <field>00N3t00000FvS5I</field>
             <field>00N3t00000C5E2o</field>
             <field>00N3t00000C5E2p</field>
+            <field>00N3t00000FvS5S</field>
             <field>00N3t00000C5E2q</field>
             <field>00N3t00000C5E2r</field>
+            <field>00N3t00000FvS5N</field>
             <field>00N3t00000C5E2s</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
@@ -661,6 +711,18 @@
             <label>Last Modified Date</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N3t00000FvS5X</field>
+            <label>Amount After Discount</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N3t00000FvRqr</field>
+            <label>Close Reason</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N3t00000FvS5I</field>
+            <label>Commission</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N3t00000C5E2o</field>
             <label>Current Generator(s)</label>
         </opportunityListFieldsLabelMappings>
@@ -669,12 +731,20 @@
             <label>Delivery/Installation Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N3t00000FvS5S</field>
+            <label>Discount Percentage</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N3t00000C5E2q</field>
             <label>Main Competitor(s)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00N3t00000C5E2r</field>
             <label>Order Number</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N3t00000FvS5N</field>
+            <label>Region/Zone</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00N3t00000C5E2s</field>
@@ -715,10 +785,15 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
+            <field>00N3t00000FvS5X</field>
+            <field>00N3t00000FvRqr</field>
+            <field>00N3t00000FvS5I</field>
             <field>00N3t00000C5E2o</field>
             <field>00N3t00000C5E2p</field>
+            <field>00N3t00000FvS5S</field>
             <field>00N3t00000C5E2q</field>
             <field>00N3t00000C5E2r</field>
+            <field>00N3t00000FvS5N</field>
             <field>00N3t00000C5E2s</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
@@ -876,6 +951,18 @@
             <label>Last Modified Date</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N3t00000FvS5X</field>
+            <label>Amount After Discount</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N3t00000FvRqr</field>
+            <label>Close Reason</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N3t00000FvS5I</field>
+            <label>Commission</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N3t00000C5E2o</field>
             <label>Current Generator(s)</label>
         </opportunityListFieldsLabelMappings>
@@ -884,12 +971,20 @@
             <label>Delivery/Installation Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N3t00000FvS5S</field>
+            <label>Discount Percentage</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N3t00000C5E2q</field>
             <label>Main Competitor(s)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00N3t00000C5E2r</field>
             <label>Order Number</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N3t00000FvS5N</field>
+            <label>Region/Zone</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00N3t00000C5E2s</field>
@@ -929,10 +1024,15 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
+            <field>00N3t00000FvS5X</field>
+            <field>00N3t00000FvRqr</field>
+            <field>00N3t00000FvS5I</field>
             <field>00N3t00000C5E2o</field>
             <field>00N3t00000C5E2p</field>
+            <field>00N3t00000FvS5S</field>
             <field>00N3t00000C5E2q</field>
             <field>00N3t00000C5E2r</field>
+            <field>00N3t00000FvS5N</field>
             <field>00N3t00000C5E2s</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
@@ -1094,6 +1194,18 @@
             <label>Last Modified Date</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N3t00000FvS5X</field>
+            <label>Amount After Discount</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N3t00000FvRqr</field>
+            <label>Close Reason</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N3t00000FvS5I</field>
+            <label>Commission</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N3t00000C5E2o</field>
             <label>Current Generator(s)</label>
         </opportunityListFieldsLabelMappings>
@@ -1102,12 +1214,20 @@
             <label>Delivery/Installation Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N3t00000FvS5S</field>
+            <label>Discount Percentage</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N3t00000C5E2q</field>
             <label>Main Competitor(s)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00N3t00000C5E2r</field>
             <label>Order Number</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N3t00000FvS5N</field>
+            <label>Region/Zone</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00N3t00000C5E2s</field>
@@ -1148,10 +1268,15 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
+            <field>00N3t00000FvS5X</field>
+            <field>00N3t00000FvRqr</field>
+            <field>00N3t00000FvS5I</field>
             <field>00N3t00000C5E2o</field>
             <field>00N3t00000C5E2p</field>
+            <field>00N3t00000FvS5S</field>
             <field>00N3t00000C5E2q</field>
             <field>00N3t00000C5E2r</field>
+            <field>00N3t00000FvS5N</field>
             <field>00N3t00000C5E2s</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
@@ -1309,6 +1434,18 @@
             <label>Last Modified Date</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N3t00000FvS5X</field>
+            <label>Amount After Discount</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N3t00000FvRqr</field>
+            <label>Close Reason</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N3t00000FvS5I</field>
+            <label>Commission</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N3t00000C5E2o</field>
             <label>Current Generator(s)</label>
         </opportunityListFieldsLabelMappings>
@@ -1317,12 +1454,20 @@
             <label>Delivery/Installation Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N3t00000FvS5S</field>
+            <label>Discount Percentage</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N3t00000C5E2q</field>
             <label>Main Competitor(s)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00N3t00000C5E2r</field>
             <label>Order Number</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N3t00000FvS5N</field>
+            <label>Region/Zone</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00N3t00000C5E2s</field>
@@ -1362,10 +1507,15 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
+            <field>00N3t00000FvS5X</field>
+            <field>00N3t00000FvRqr</field>
+            <field>00N3t00000FvS5I</field>
             <field>00N3t00000C5E2o</field>
             <field>00N3t00000C5E2p</field>
+            <field>00N3t00000FvS5S</field>
             <field>00N3t00000C5E2q</field>
             <field>00N3t00000C5E2r</field>
+            <field>00N3t00000FvS5N</field>
             <field>00N3t00000C5E2s</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
@@ -1527,6 +1677,18 @@
             <label>Last Modified Date</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N3t00000FvS5X</field>
+            <label>Amount After Discount</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N3t00000FvRqr</field>
+            <label>Close Reason</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N3t00000FvS5I</field>
+            <label>Commission</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N3t00000C5E2o</field>
             <label>Current Generator(s)</label>
         </opportunityListFieldsLabelMappings>
@@ -1535,12 +1697,20 @@
             <label>Delivery/Installation Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N3t00000FvS5S</field>
+            <label>Discount Percentage</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N3t00000C5E2q</field>
             <label>Main Competitor(s)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00N3t00000C5E2r</field>
             <label>Order Number</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N3t00000FvS5N</field>
+            <label>Region/Zone</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00N3t00000C5E2s</field>
@@ -1581,10 +1751,15 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
+            <field>00N3t00000FvS5X</field>
+            <field>00N3t00000FvRqr</field>
+            <field>00N3t00000FvS5I</field>
             <field>00N3t00000C5E2o</field>
             <field>00N3t00000C5E2p</field>
+            <field>00N3t00000FvS5S</field>
             <field>00N3t00000C5E2q</field>
             <field>00N3t00000C5E2r</field>
+            <field>00N3t00000FvS5N</field>
             <field>00N3t00000C5E2s</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
@@ -1742,6 +1917,18 @@
             <label>Last Modified Date</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N3t00000FvS5X</field>
+            <label>Amount After Discount</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N3t00000FvRqr</field>
+            <label>Close Reason</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N3t00000FvS5I</field>
+            <label>Commission</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N3t00000C5E2o</field>
             <label>Current Generator(s)</label>
         </opportunityListFieldsLabelMappings>
@@ -1750,12 +1937,20 @@
             <label>Delivery/Installation Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N3t00000FvS5S</field>
+            <label>Discount Percentage</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N3t00000C5E2q</field>
             <label>Main Competitor(s)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00N3t00000C5E2r</field>
             <label>Order Number</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N3t00000FvS5N</field>
+            <label>Region/Zone</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00N3t00000C5E2s</field>
@@ -1795,10 +1990,15 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
+            <field>00N3t00000FvS5X</field>
+            <field>00N3t00000FvRqr</field>
+            <field>00N3t00000FvS5I</field>
             <field>00N3t00000C5E2o</field>
             <field>00N3t00000C5E2p</field>
+            <field>00N3t00000FvS5S</field>
             <field>00N3t00000C5E2q</field>
             <field>00N3t00000C5E2r</field>
+            <field>00N3t00000FvS5N</field>
             <field>00N3t00000C5E2s</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
@@ -1827,7 +2027,7 @@
         <forecastingDateType>ScheduleDate</forecastingDateType>
         <hasProductFamily>false</hasProductFamily>
         <isAmount>true</isAmount>
-        <isAvailable>true</isAvailable>
+        <isAvailable>false</isAvailable>
         <isQuantity>false</isQuantity>
         <masterLabel>Opportunity Revenue Schedule Date</masterLabel>
         <name>OpportunityRevenueScheduleDate</name>
@@ -1960,6 +2160,18 @@
             <label>Last Modified Date</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N3t00000FvS5X</field>
+            <label>Amount After Discount</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N3t00000FvRqr</field>
+            <label>Close Reason</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N3t00000FvS5I</field>
+            <label>Commission</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N3t00000C5E2o</field>
             <label>Current Generator(s)</label>
         </opportunityListFieldsLabelMappings>
@@ -1968,12 +2180,20 @@
             <label>Delivery/Installation Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N3t00000FvS5S</field>
+            <label>Discount Percentage</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N3t00000C5E2q</field>
             <label>Main Competitor(s)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00N3t00000C5E2r</field>
             <label>Order Number</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N3t00000FvS5N</field>
+            <label>Region/Zone</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00N3t00000C5E2s</field>
@@ -2014,10 +2234,15 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
+            <field>00N3t00000FvS5X</field>
+            <field>00N3t00000FvRqr</field>
+            <field>00N3t00000FvS5I</field>
             <field>00N3t00000C5E2o</field>
             <field>00N3t00000C5E2p</field>
+            <field>00N3t00000FvS5S</field>
             <field>00N3t00000C5E2q</field>
             <field>00N3t00000C5E2r</field>
+            <field>00N3t00000FvS5N</field>
             <field>00N3t00000C5E2s</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
@@ -2046,7 +2271,7 @@
         <forecastingDateType>ScheduleDate</forecastingDateType>
         <hasProductFamily>false</hasProductFamily>
         <isAmount>false</isAmount>
-        <isAvailable>true</isAvailable>
+        <isAvailable>false</isAvailable>
         <isQuantity>true</isQuantity>
         <masterLabel>Opportunity Quantity Schedule Date</masterLabel>
         <name>OpportunityQuantityScheduleDate</name>
@@ -2175,6 +2400,18 @@
             <label>Last Modified Date</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N3t00000FvS5X</field>
+            <label>Amount After Discount</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N3t00000FvRqr</field>
+            <label>Close Reason</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N3t00000FvS5I</field>
+            <label>Commission</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N3t00000C5E2o</field>
             <label>Current Generator(s)</label>
         </opportunityListFieldsLabelMappings>
@@ -2183,12 +2420,20 @@
             <label>Delivery/Installation Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N3t00000FvS5S</field>
+            <label>Discount Percentage</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N3t00000C5E2q</field>
             <label>Main Competitor(s)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00N3t00000C5E2r</field>
             <label>Order Number</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N3t00000FvS5N</field>
+            <label>Region/Zone</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00N3t00000C5E2s</field>
@@ -2228,10 +2473,15 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
+            <field>00N3t00000FvS5X</field>
+            <field>00N3t00000FvRqr</field>
+            <field>00N3t00000FvS5I</field>
             <field>00N3t00000C5E2o</field>
             <field>00N3t00000C5E2p</field>
+            <field>00N3t00000FvS5S</field>
             <field>00N3t00000C5E2q</field>
             <field>00N3t00000C5E2r</field>
+            <field>00N3t00000FvS5N</field>
             <field>00N3t00000C5E2s</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
@@ -2260,7 +2510,7 @@
         <forecastingDateType>ScheduleDate</forecastingDateType>
         <hasProductFamily>true</hasProductFamily>
         <isAmount>true</isAmount>
-        <isAvailable>true</isAvailable>
+        <isAvailable>false</isAvailable>
         <isQuantity>false</isQuantity>
         <masterLabel>Line Item Revenue Schedule Date</masterLabel>
         <name>LineItemRevenueScheduleDate</name>
@@ -2393,6 +2643,18 @@
             <label>Last Modified Date</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N3t00000FvS5X</field>
+            <label>Amount After Discount</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N3t00000FvRqr</field>
+            <label>Close Reason</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N3t00000FvS5I</field>
+            <label>Commission</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N3t00000C5E2o</field>
             <label>Current Generator(s)</label>
         </opportunityListFieldsLabelMappings>
@@ -2401,12 +2663,20 @@
             <label>Delivery/Installation Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N3t00000FvS5S</field>
+            <label>Discount Percentage</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N3t00000C5E2q</field>
             <label>Main Competitor(s)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00N3t00000C5E2r</field>
             <label>Order Number</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N3t00000FvS5N</field>
+            <label>Region/Zone</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00N3t00000C5E2s</field>
@@ -2447,10 +2717,15 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
+            <field>00N3t00000FvS5X</field>
+            <field>00N3t00000FvRqr</field>
+            <field>00N3t00000FvS5I</field>
             <field>00N3t00000C5E2o</field>
             <field>00N3t00000C5E2p</field>
+            <field>00N3t00000FvS5S</field>
             <field>00N3t00000C5E2q</field>
             <field>00N3t00000C5E2r</field>
+            <field>00N3t00000FvS5N</field>
             <field>00N3t00000C5E2s</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
@@ -2479,7 +2754,7 @@
         <forecastingDateType>ScheduleDate</forecastingDateType>
         <hasProductFamily>true</hasProductFamily>
         <isAmount>false</isAmount>
-        <isAvailable>true</isAvailable>
+        <isAvailable>false</isAvailable>
         <isQuantity>true</isQuantity>
         <masterLabel>Line Item Quantity Schedule Date</masterLabel>
         <name>LineItemQuantityScheduleDate</name>
@@ -2608,6 +2883,18 @@
             <label>Last Modified Date</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N3t00000FvS5X</field>
+            <label>Amount After Discount</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N3t00000FvRqr</field>
+            <label>Close Reason</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N3t00000FvS5I</field>
+            <label>Commission</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N3t00000C5E2o</field>
             <label>Current Generator(s)</label>
         </opportunityListFieldsLabelMappings>
@@ -2616,12 +2903,20 @@
             <label>Delivery/Installation Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N3t00000FvS5S</field>
+            <label>Discount Percentage</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N3t00000C5E2q</field>
             <label>Main Competitor(s)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00N3t00000C5E2r</field>
             <label>Order Number</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N3t00000FvS5N</field>
+            <label>Region/Zone</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00N3t00000C5E2s</field>
@@ -2661,10 +2956,15 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
+            <field>00N3t00000FvS5X</field>
+            <field>00N3t00000FvRqr</field>
+            <field>00N3t00000FvS5I</field>
             <field>00N3t00000C5E2o</field>
             <field>00N3t00000C5E2p</field>
+            <field>00N3t00000FvS5S</field>
             <field>00N3t00000C5E2q</field>
             <field>00N3t00000C5E2r</field>
+            <field>00N3t00000FvS5N</field>
             <field>00N3t00000C5E2s</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
